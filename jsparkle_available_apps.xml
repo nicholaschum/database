@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <jsparkle>
-    <app name="YouTube" ver="17.34.32" imgUrl="https://www.apkmirror.com/wp-content/themes/APKMirror/ap_resize/ap_resize.php?src=https%3A%2F%2Fwww.apkmirror.com%2Fwp-content%2Fuploads%2F2022%2F08%2F83%2F63052c26983af.png&w=96&h=96&q=100" dlUrl="apk1" />
-    <app name="Spotify" ver="17.34.32" imgUrl="https://www.apkmirror.com/wp-content/themes/APKMirror/ap_resize/ap_resize.php?src=https%3A%2F%2Fwww.apkmirror.com%2Fwp-content%2Fuploads%2F2022%2F07%2F11%2F62d199cc67da2.png&w=96&h=96&q=100" dlUrl="apk2" />
+    <app name="YouTube" ver="17.34.32" imgUrl="https://raw.githubusercontent.com/nicholaschum/database/master/jsparkle_downloader/youtube.png" dlUrl="apk1" />
+    <app name="Spotify" ver="17.34.32" imgUrl="https://raw.githubusercontent.com/nicholaschum/database/master/jsparkle_downloader/spotify.png" dlUrl="apk2" />
 </jsparkle>
