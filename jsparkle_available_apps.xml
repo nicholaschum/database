@@ -2,4 +2,6 @@
 <jsparkle>
     <app name="YouTube" ver="17.34.32" img="https://raw.githubusercontent.com/nicholaschum/database/master/jsparkle_downloader/youtube.png" dl="apk1" />
     <app name="Spotify" ver="9000.34" img="https://raw.githubusercontent.com/nicholaschum/database/master/jsparkle_downloader/spotify.png" dl="apk2" />
+    <app name="YouTube2" ver="17.34.32" img="https://raw.githubusercontent.com/nicholaschum/database/master/jsparkle_downloader/youtube.png" dl="apk1" />
+    <app name="Spotify2" ver="9000.34" img="https://raw.githubusercontent.com/nicholaschum/database/master/jsparkle_downloader/spotify.png" dl="apk2" />
 </jsparkle>
